@@ -1,0 +1,26 @@
+
+
+	1. Marketo Document (For Kissmatrics) - Documents - share 
+	
+	2. HA(Maxscale Configre)Cluster blog - Please go throgh the percona Maxscale blog (Dont have Exact link)
+
+	3. Mysql service Start and stop comment - service mysql start / service mysql stop.
+
+	4. Service Status - service mysql status
+
+	5. Mysql Backup - basic mysqldump commands with options. 
+
+	6. Maxscal services  - service maxscale status / service maxscale stop / service maxscale start 
+
+	7. Pt-online-schema ,pt-Arcihver - please go through the links which we provided earlier for percona toolkit.
+
+	8. How to scp dump file from prod to dev environment and vice versa example -  its normal command with minimal options (scp <file path> <user>@<host>:<file path>)
+
+	9. Maxscale Config - /etc/maxscale.cnf
+	
+
+	
+	
+	
+	
+	Nagios - https://www.tecmint.com/install-nagios-in-linux/
