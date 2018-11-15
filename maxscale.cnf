@@ -1,0 +1,27 @@
+
+
+
+1. Email Configration in nagios
+		
+	   From Email :  /etc/nagios/objects/commands.cfg  -- dbmonitor@qrsolutions.in
+		
+	   To Email   :  /etc/nagios/objects/contacts.cfg -- dbadmin@qrsolutions.in
+		
+	                 nagios -d /etc/nagios/nagios.cfg
+	   
+2. File System Backup or any tools used
+
+3. maxscale.cnf
+
+4. KissMetrics Doc
+
+5. to take single procedure backup comment.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. pt-Archiver where(Condition).
+
+
+
+
+
